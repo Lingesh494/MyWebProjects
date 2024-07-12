@@ -1,0 +1,24 @@
+.clock{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 90vh;
+    font-size: 60px;
+    font-family: 'Verdana';
+    font-weight: bold;
+}
+#ampm{
+    padding-left: 20px;
+}
+h1{
+    font-size: 4em;
+    font-weight: bold;
+    background: url('busycity.gif') repeat; 
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    color: transparent;
+    text-align: center;
+    bottom: 0px;
+    font-family: 'Verdana';
+}
